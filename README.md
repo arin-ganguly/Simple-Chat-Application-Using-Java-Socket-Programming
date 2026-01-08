@@ -1,7 +1,7 @@
 # Simple Chat Application Using Java Socket Programming
 
 A simple **console-based chat application** built using **Java Socket Programming** that allows communication between a server and a client in real time.  
-This project demonstrates basic networking concepts such as TCP sockets and client-server communication. :contentReference[oaicite:0]{index=0}
+This project demonstrates basic networking concepts such as TCP sockets and client-server communication. 
 
 ---
 
